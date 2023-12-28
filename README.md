@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @prishk78
-- 👀 I’m interested in learning and growing along with github.
-- 🌱 I’m currently persuing Btech(IT) at SRM university, Chennai
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through my id: khattriprisha1803@gmail.com
+- 👋 Hi, I’m Prisha Khattri 
+- 👀 I’m interested in Data Analytics 
+- 🌱 I’m currently persuing Btech from SRM university
+- 📫 You can reach me through my LinkedIn: 
+https://www.linkedin.com/in/prisha-khattri-a65278252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
 prishk78/prishk78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 Hi, I’m Prisha Khattri  
-I’m persuing my Btechin Information Technology from SRMIST Ramapuram 
+I’m persuing my Btech in Information Technology from SRMIST Ramapuram
 You can find me on my LinkedIn: 
 https://www.linkedin.com/in/prisha-khattri-a65278252/
 

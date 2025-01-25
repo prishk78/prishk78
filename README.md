@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Prisha Khattri 
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently persuing Btech from SRM university
-- 📫 You can reach me through my LinkedIn: 
-https://www.linkedin.com/in/prisha-khattri-a65278252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Hi, I’m Prisha Khattri  
+I’m persuing my Btechin Information Technology from SRMIST Ramapuram 
+You can find me on my LinkedIn: 
+https://www.linkedin.com/in/prisha-khattri-a65278252/
 
 <!---
 prishk78/prishk78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
